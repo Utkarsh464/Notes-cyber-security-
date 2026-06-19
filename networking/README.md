@@ -37,13 +37,7 @@ Networking & OS cheatsheets written from a security perspective — not just how
 
 ---
 
-## Related Repos
-
-| Repo | What's inside |
-|------|--------------|
-| [python](https://github.com/Utkarsh464/python) | Python fundamentals, study notes, and security scripts |
-| [linux-notes](https://github.com/Utkarsh464/linux-notes) | Permissions, users, groups, commands, bash one-liners |
-| [cybersecurity-notes](https://github.com/Utkarsh464/cybersecurity-notes) | Fundamentals, ethical hacking, web application security, roadmap |
+*Part of [notes](https://github.com/Utkarsh464/notes) — personal study notes monorepo.*
 
 ---
 

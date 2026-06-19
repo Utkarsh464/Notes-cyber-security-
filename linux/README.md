@@ -31,13 +31,7 @@ This repo is actively growing. Planned additions:
 
 ---
 
-## Related Repos
-
-| Repo | What's inside |
-|------|--------------|
-| [python](https://github.com/Utkarsh464/python) | Python fundamentals, study notes, and security scripts |
-| [networking-and-os](https://github.com/Utkarsh464/networking-and-os) | TCP/IP, DNS, HTTP, Subnetting, Wireshark, tcpdump, OS basics |
-| [cybersecurity-notes](https://github.com/Utkarsh464/cybersecurity-notes) | Full learning path — fundamentals, ethical hacking, web security, roadmap |
+*Part of [notes](https://github.com/Utkarsh464/notes) — personal study notes monorepo.*
 
 ---
 

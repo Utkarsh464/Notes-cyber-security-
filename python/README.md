@@ -37,13 +37,7 @@ Python fundamentals from a cybersecurity perspective — study notes and hands-o
 
 ---
 
-## Related Repos
-
-| Repo | What's inside |
-|------|--------------|
-| [cybersecurity-notes](https://github.com/Utkarsh464/cybersecurity-notes) | Fundamentals, ethical hacking, roadmap |
-| [linux-notes](https://github.com/Utkarsh464/linux-notes) | Permissions, users, commands, bash one-liners |
-| [networking-and-os](https://github.com/Utkarsh464/networking-and-os) | TCP/IP, DNS, HTTP, Wireshark, OS basics |
+*Part of [notes](https://github.com/Utkarsh464/notes) — personal study notes monorepo.*
 
 ---
 
