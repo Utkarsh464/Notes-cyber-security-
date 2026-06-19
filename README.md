@@ -1,4 +1,4 @@
-# Notes(cyber-security)
+# Notes-cyber-security
 
 Personal cybersecurity study notes covering networking, operating systems, Linux, cybersecurity fundamentals, ethical hacking, web application security, and Python.
 
