@@ -1,0 +1,9 @@
+[submodule "linux"]
+	path = linux
+	url = https://github.com/Utkarsh464/linux-notes.git
+[submodule "cybersecurity"]
+	path = cybersecurity
+	url = https://github.com/Utkarsh464/cybersecurity-notes.git
+[submodule "python"]
+	path = python
+	url = https://github.com/Utkarsh464/python.git
