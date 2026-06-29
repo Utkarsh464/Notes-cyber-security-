@@ -1,6 +1,6 @@
 # Notes-cyber-security
 
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-June%202026-blue)](https://github.com/Utkarsh464/Notes-cyber-security-)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-June%202026-blue)](https://github.com/Utkarsh464/Notes-cyber-security)
 
 Personal cybersecurity study notes covering networking, operating systems, Linux, cybersecurity fundamentals, ethical hacking, web application security, AI security, and Python.
 
