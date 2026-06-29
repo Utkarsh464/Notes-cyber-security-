@@ -21,12 +21,12 @@ Personal cybersecurity study notes covering networking, operating systems, Linux
 | [Phase 5 — Web Application Security](./cybersecurity/Phase_5_Web_Application_Security.md) | 1 | 981 | ★★★★☆ | ✅ Complete |
 | [Phase 5.5 — AI Security](./cybersecurity/Phase_5.5_AI_Security.md) | 1 | ~580 | ★★★★☆ | ✅ Complete |
 | [Python Notes](./python/notes/) | 16 | 2,018 | ★★★☆☆ | 🟡 Deepening |
-| [Python Scripts](./python/scripts/) | 3 | 42 | ★★☆☆☆ | 🟡 Expanding |
+| [Python Scripts](./python/scripts/) | 3 | 82 | ★★☆☆☆ | 🟡 Expanding |
 | Phase 6 — Cloud Security | — | — | — | 🔲 Planned |
 | Phase 7 — Blue Team / Defensive | — | — | — | 🔲 Planned |
 | Phase 8 — GRC & Risk Management | — | — | — | 🔲 Planned |
 | Phase 1 — IT & Networking | — | — | — | 🔲 Planned |
-| **Total** | **35** | **~12,087** | | |
+| **Total** | **35** | **~12,127** | | |
 
 ---
 
@@ -60,13 +60,13 @@ Personal cybersecurity study notes covering networking, operating systems, Linux
 ### Python
 - **Basics through OOP** — variables, strings, lists, tuples, dicts, conditionals, loops, functions, file I/O, error handling, modules, OOP, comprehensions, lambdas
 - **Modern Features** — match/case, type hints, zoneinfo, exception groups
-- **Security Scripts** — port scanner (TCP connect scan), MD5 hash cracker (rockyou.txt), password hasher
+- **Security Scripts** — port scanner (TCP connect scan), multi-hash cracker (auto-detect MD5/SHA1/SHA256, reads hash file), password hasher (choose algorithm)
 
 ---
 
 ## Recent Updates
 
-- **June 2026** — Added hash_crack.py (MD5 cracker) and hasher.py (password hasher) to Python scripts.
+- **June 2026** — hasher.py: added multi-algorithm support (MD5/SHA1/SHA224/SHA256/SHA384/SHA512). hash_crack.py: refactored to read hash list from file, nested loop cracking.
 - **June 2025** — Added Phase 5.5 AI Security (~580 lines). Added progress tracker to README.
 - **June 2025** — Expanded Python notes (functions, conditionals, loops, newer features). Added `__init__.py`, `.gitignore`.
 - **June 2025** — Restructured into monorepo. Added networking cheatsheets.
